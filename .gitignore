@@ -1,0 +1,74 @@
+# Pelican generated files
+output/                    # Local output directory (if you ever generate locally)
+*.pid                      # Process ID files
+cache/                     # Pelican cache directory
+.cache/
+drafts/
+
+# Python
+__pycache__/              # Python bytecode cache
+*.pyc, *.pyo, *.py[cod]   # Compiled Python files
+.Python
+env/, venv/, .venv/       # Virtual environments
+ENV/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+
+# IDEs and Editors
+.vscode/                  # VS Code settings
+.idea/                    # PyCharm/IntelliJ settings
+*.swp, *.swo             # Vim swap files
+*~                       # Backup files
+.DS_Store                # macOS folder settings
+Thumbs.db                # Windows thumbnail cache
+
+#so as not to commit the .git folder from the theme clone
+themes/pelican-bootstrap3/.git
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+
+# Development
+*.log                    # Log files
+.env                     # Environment variables
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+*~
+._*
+*.lock
+*.dat
+*.swp
+*.out
+*.py[cod]
+*.pyc
+*.pid
+*.ipr
+*.iml
+*.iws
+!*.jar
+*.tox
+
+
