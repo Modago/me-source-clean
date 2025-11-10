@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MattersEarthly - Blog</title><link href="/" rel="alternate"/><link href="feeds/blog.atom.xml" rel="self"/><id>/</id><updated>2025-01-01T00:00:00+02:00</updated><entry><title>First Article</title><link href="first-article.html" rel="alternate"/><published>2025-01-01T00:00:00+02:00</published><updated>2025-01-01T00:00:00+02:00</updated><author><name>Michael O</name></author><id>tag:None,2025-01-01:first-article.html</id><content type="html">&lt;p&gt;This is a test article to confirm your Pelican build and pagination.&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                    &lt;iframe width="640" height="390"
+                        src='https://www.youtube.com/embed/dQw4w9WgXcQ'
+                        frameborder='0' webkitAllowFullScreen
+                        mozallowfullscreen allowFullScreen&gt;
+                    &lt;/iframe&gt;
+                &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Inline: $E = mc^2$&lt;/p&gt;
+&lt;p&gt;Block:
+$$
+a^2 + b^2 = c^2
+$$&lt;/p&gt;</content><category term="Blog"/><category term="test"/></entry></feed>

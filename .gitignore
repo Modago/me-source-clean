@@ -24,7 +24,7 @@ ENV/
 .idea/                    # PyCharm/IntelliJ settings
 *.swp, *.swo             # Vim swap files
 *~                       # Backup files
-.DS_Store                # macOS folder settings
+.DS_Store                # macOS system files
 
 #so as not to commit the .git folder from the theme clone
 themes/pelican-bootstrap3/.git
