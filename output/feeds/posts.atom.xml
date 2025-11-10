@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MattersEarthly - posts</title><link href="/" rel="alternate"/><link href="feeds/posts.atom.xml" rel="self"/><id>/</id><updated>2021-01-17T00:00:00+02:00</updated><entry><title>Gamification</title><link href="gamification.html" rel="alternate"/><published>2021-01-17T00:00:00+02:00</published><updated>2021-01-17T00:00:00+02:00</updated><author><name>Michael O</name></author><id>tag:None,2021-01-17:gamification.html</id><summary type="html">&lt;p&gt;Defines gamification, contrasts key definitions, outlines design element levels, and critiques simplistic approaches, advocating intrinsically motivating, user-centred, theory-informed design.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Gamification grew from a mix of interacting trends and traditions in interaction design and games. Gamification describes those features of an interactive system that aim to motivate and engage end-users through the use of game elements and mechanics.&lt;/p&gt;
+&lt;p&gt;The two common definitions of gamification in academic research are by Deterding et al. and Huotari and Hamari. The former defines gamification as “use of game design elements in non-game contexts”, whereas the latter defines gamification as a “process of enhancing a service with affordances for gameful experiences in order to support user’s overall value creation.”&lt;/p&gt;
+&lt;p&gt;The key differences are that Deterding et al.’s definition explains how to operationalise gamification and prioritises the game design elements, while Huotari and Hamari describe a broader process centred on the user experience.&lt;/p&gt;
+&lt;p&gt;Gamification can be viewed as enriching artefacts with game-design elements to positively influence users. Deterding et al. outline levels of game design elements ranging from interface elements (e.g., badges, leaderboards) to design patterns/mechanics (e.g., time constraints, limited resources), principles/heuristics (e.g., clear goals), models (e.g., MDA), and methods (e.g., playtesting).&lt;/p&gt;
+&lt;p&gt;Here is the table from the original HTML preserved in raw format:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Examples&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Interface elements&lt;/td&gt;
+&lt;td&gt;Badges, leaderboards&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Design patterns/mechanics&lt;/td&gt;
+&lt;td&gt;Time constraints, limited resources&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Principles/heuristics&lt;/td&gt;
+&lt;td&gt;Clear goals&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Models&lt;/td&gt;
+&lt;td&gt;MDA (Mechanics-Dynamics-Aesthetics)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Methods&lt;/td&gt;
+&lt;td&gt;Playtesting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Common features like points, badges and leaderboards alone are insufficient to create gameful experiences; they mainly provide interaction and feedback. Effective gamification should aim at intrinsic motivation through autonomy, mastery and purpose, and be grounded in users’ needs, social styles, expertise and engagement.&lt;/p&gt;
+&lt;p&gt;Designing and adjusting gamified services is complex and extends beyond simple point systems. Although widely applied in education/training, sustainability and healthcare/wellness, research often lacks robust theory, validated constructs, appropriate measurement, and consideration of individual differences. More rigorous quantitative and qualitative studies are needed.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Previous article:&lt;/strong&gt; /articles/game-based-active-mobility.htmlGame-Based Active Mobility with Augmented Reality&lt;/a&gt;&lt;/p&gt;</content><category term="posts"/><category term="gamification"/><category term="motivation"/><category term="behaviour"/></entry></feed>

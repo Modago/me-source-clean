@@ -82,15 +82,15 @@ class LiquidTags(markdown.Extension):
             return func
         return dec
 
-    def extendMarkdown(self, md, md_globals):
+    def extendMarkdown(self, md):
         self.htmlStash = md.htmlStash
         md.registerExtension(self)
         # for the include_code preprocessor, we need to re-run the
         # fenced code block preprocessor after substituting the code.
         # Because the fenced code processor is run before, {% %} tags
         # within equations will not be parsed as an include.
-        md.preprocessors.add('mdincludes',
-                             _LiquidTagsPreprocessor(self), ">html_block")
+        md.preprocessors.register(
+                             _LiquidTagsPreprocessor(self), "mdincludes", 25)
 
 
 def makeExtension(configs=None):

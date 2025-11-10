@@ -25,7 +25,6 @@ ENV/
 *.swp, *.swo             # Vim swap files
 *~                       # Backup files
 .DS_Store                # macOS folder settings
-Thumbs.db                # Windows thumbnail cache
 
 #so as not to commit the .git folder from the theme clone
 themes/pelican-bootstrap3/.git
