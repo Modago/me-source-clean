@@ -1,11 +1,10 @@
 AUTHOR = 'Michael O'
 SITENAME = 'MattersEarthly'
 SITEURL = ''
-RELATIVE_URLS = 'True'
 
 DEFAULT_DATE_FORMAT = ('%-d/%-m/%Y')  # '%B %d, %Y'
 
-PATH = 'content'
+PATH = 'content/'
 TIMEZONE = 'Europe/Helsinki'
 DEFAULT_LANG = 'en'
 
@@ -23,8 +22,10 @@ EXTRA_PATH_METADATA = {
 CUSTOM_CSS = 'static/custom.css'
 CUSTOM_JS = 'static/custom.js'
 
-# ----OUTPUT for local testing ----
-OUTPUT_PATH = 'output/'
+# --- Development settings ---
+RELATIVE_URLS = True       # Use relative URLs for local preview
+DELETE_OUTPUT_DIRECTORY = False  # Keep output folder in dev
+OUTPUT_PATH = "output/"    # Local dev output folder
 
 # ---- Theme and layout ----
 # Options: cerulean, cosmo, flatly, journal, lumen, readable, simplex, spacelab, united, yeti
@@ -39,10 +40,6 @@ PAGINATION_PATTERNS = (
     (1, '{base_name}/index.html', '{base_name}/index.html'),
     (2, '{base_name}/page/{number}/index.html', '{base_name}/page/{number}/index.html'),
 )
-
- # ---- Article / page layout ----
-# SUMMARY_MAX_LENGTH = 50
-
 
 # Banner configuration (blog only)
 BANNER = 'images/banner.jpg'
@@ -94,26 +91,16 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License<
 except where indicated otherwise.</p>
 """
 
-# ---- Feed generation ----
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
-
-
-
-"""
-# TYPOGRIFY = True
-
-# DIRECT_TEMPLATES = ('index','tags', 'categories', 'authors', 'archives')
-
 # ---- URLs / Permalinks ----
 ARTICLE_URL = 'posts/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{slug}.html'
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
+
+"""
+# TYPOGRIFY = True
+
+# DIRECT_TEMPLATES = ('index','tags', 'categories', 'authors', 'archives')
 
 # Menu
 MENUITEMS = (('Archives', '/archives.html'),
@@ -130,6 +117,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+# ---- Feed generation ----
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+
+ # ---- Article / page layout ----
+# SUMMARY_MAX_LENGTH = 50
 """

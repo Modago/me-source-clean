@@ -2,11 +2,11 @@
 Title: Gamification
 Date: 2021-01-17
 Category: Gamification
-Tags: research, physical activity, technology, gamification
+Tags: research, physical activity, technology
 Slug: gamification
 Author: Michael 0
-tags: gamification, motivation, behaviour
-Summary: Defines gamification, contrasts key definitions, outlines design element levels, and critiques simplistic approaches, advocating intrinsically motivating, user-centred, theory-informed design.
+tags: motivation, behaviour
+Summary: Defines gamification, compares key definitions, explores different levels of design elements, and critiques simplistic approaches. Emphasizes the importance of creating intrinsically motivating, user-centered, and theory-informed designs.
 Series: Urban Lifestyle Engineering
 ---
    
