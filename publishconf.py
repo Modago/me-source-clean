@@ -19,8 +19,8 @@ FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 # ---- URLs / Permalinks ----
-ARTICLE_URL = 'post/{slug}.html'
-ARTICLE_SAVE_AS = 'post/{slug}.html'
+ARTICLE_URL = 'posts/{slug}.html'
+ARTICLE_SAVE_AS = 'posts/{slug}.html'
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 

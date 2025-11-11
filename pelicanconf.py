@@ -123,4 +123,7 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
  # ---- Article / page layout ----
 # SUMMARY_MAX_LENGTH = 50
+
+https://earthlymatters.co/about.html
+https://earthlymatters.co/post/gamification.html
 """
