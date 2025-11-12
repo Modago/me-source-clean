@@ -2,9 +2,9 @@ AUTHOR = 'Michael O'
 SITENAME = 'MattersEarthly'
 SITEURL = ''
 
-DEFAULT_DATE_FORMAT = ('%-d/%-m/%Y')  # '%B %d, %Y'
+DEFAULT_DATE_FORMAT = ('%-d/%-m/%Y')  
 
-PATH = 'content/'
+PATH = 'content'
 TIMEZONE = 'Europe/Helsinki'
 DEFAULT_LANG = 'en'
 
@@ -25,7 +25,7 @@ CUSTOM_JS = 'static/custom.js'
 # --- Development settings ---
 RELATIVE_URLS = True       # Use relative URLs for local preview
 DELETE_OUTPUT_DIRECTORY = False  # Keep output folder in dev
-OUTPUT_PATH = "output/"    # Local dev output folder
+OUTPUT_PATH = "output"    # Local dev output folder
 
 # ---- Theme and layout ----
 # Options: cerulean, cosmo, flatly, journal, lumen, readable, simplex, spacelab, united, yeti
@@ -84,13 +84,6 @@ SOCIAL = (('linkedin', 'https://www.linkedin.com/in/michaeloduor'),)
 import datetime
 CURRENT_YEAR = datetime.date.today().year
 
-FOOTER_TEXT = f"""
-<p>© {CURRENT_YEAR} MattersEarthly. Content licensed under a 
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>,
-except where indicated otherwise.</p>
-"""
-
 # ---- URLs / Permalinks ----
 ARTICLE_URL = 'posts/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{slug}.html'
@@ -123,7 +116,11 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
  # ---- Article / page layout ----
 # SUMMARY_MAX_LENGTH = 50
-
-https://earthlymatters.co/about.html
-https://earthlymatters.co/post/gamification.html
 """
+
+# FOOTER_TEXT = f"""
+# <p>© {CURRENT_YEAR} MattersEarthly. Content licensed under a 
+# <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>,
+# except where indicated otherwise.</p>
+# """

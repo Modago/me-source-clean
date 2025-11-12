@@ -10,5 +10,5 @@ The main articles included in my PhD are:
     <li>Based on the findings of the preceding studies, the other two articles proposed the development of persuasive software design patterns. These patterns were based on the <span class="caps">PSD</span> model’s human-computer dialogue (<strong>(Oduor and Oinas-Kukkonen, 2017)</strong> and social support features <strong>(Oduor and Oinas-Kukkonen, 2014)</strong> which were found to be important in enhancing user engagement and influencing user&nbsp;behaviours.</li>
     </ol>
 
-Here is a list of my publications generated using<a href="https://bibbase.org" target="_blank" rel="noopener">BibBase</a>.
+Here is a list of my publications generated using<a href="https://bibbase.org" target="_blank" rel="noopener"> BibBase</a>.
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2FModuor&jsonp=1%authorFirst=1"></script>
