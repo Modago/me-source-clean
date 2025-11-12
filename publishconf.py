@@ -8,11 +8,11 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-OUTPUT_PATH = "output/"
-DELETE_OUTPUT_DIRECTORY = True
-
-SITEURL = "https://earthlymatters.co" 
+SITEURL = "https://mattersearthly.co" 
 RELATIVE_URLS = False
+
+OUTPUT_PATH = "output_temp/"
+DELETE_OUTPUT_DIRECTORY = True
 
 # ---- Feed generation ----
 FEED_ALL_ATOM = "feeds/all.atom.xml"
@@ -28,6 +28,4 @@ PAGE_SAVE_AS = '{slug}.html'
 
 # DISQUS_SITENAME = ""
 # GOOGLE_ANALYTICS = ""
-
-
 

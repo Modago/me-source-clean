@@ -42,7 +42,7 @@ PAGINATION_PATTERNS = (
 )
 
 # Banner configuration (blog only)
-BANNER = 'images/banner.jpg'
+BANNER = 'images/banner.jpeg'
 BANNER_SUBTITLE = 'Musings on Research, Technology, and Life'
 BANNER_ALL_PAGES = False
 
@@ -116,6 +116,8 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
  # ---- Article / page layout ----
 # SUMMARY_MAX_LENGTH = 50
+
+https://earthlymatters.co/posts/gamification.html
 """
 
 # FOOTER_TEXT = f"""
