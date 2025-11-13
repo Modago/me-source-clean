@@ -1,31 +1,37 @@
-# This file is only used if you use `make publish` or
-# explicitly specify it as your config file.
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+"""
+Production configuration for Pelican — used when deploying to GitHub Pages.
+This builds the fully rendered site with absolute URLs, minified assets, and
+custom domain integration.
+"""
 
+from __future__ import unicode_literals
 import os
 import sys
 
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-# If your site is available via HTTPS, make sure SITEURL begins with https://
+# --- Site URL and Domain ---
 SITEURL = "https://mattersearthly.co" 
-RELATIVE_URLS = False
+RELATIVE_URLS = False # absolute paths for production
 
-OUTPUT_PATH = "output_temp/"
+# --- Basic Output & Paths ---
+OUTPUT_PATH = "output_prod/"
 DELETE_OUTPUT_DIRECTORY = True
 
 # ---- Feed generation ----
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
-
-# ---- URLs / Permalinks ----
-ARTICLE_URL = 'posts/{slug}.html'
-ARTICLE_SAVE_AS = 'posts/{slug}.html'
-PAGE_URL = '{slug}.html'
-PAGE_SAVE_AS = '{slug}.html'
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
 # Following items are often useful when publishing
 
 # DISQUS_SITENAME = ""
 # GOOGLE_ANALYTICS = ""
 
+# --- Final output message ---
+print(f"✅ Building production site for {SITEURL} into '{OUTPUT_PATH}'")
