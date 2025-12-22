@@ -41,19 +41,15 @@ I also enjoy participating in voluntary activities. Over the years, I have been 
 
 <hr>
 <div class="row">
-        <div class="col-sm-8">
+        <div class="col-sm-6">
           <h3>Contact</h3> 
           <ul style="list-style-type:none;">
           	<li> <small>Michael Oduor </small> </li>
           	<li><small>Institute of Rehabilitation, School of Health & Social Studies</small></li>
           	<li><small>JAMK University of Applied Sciences</small></li>
-          	<li><small>Email: firstname.lastname(at)jamk.fi</small></li>
-			<li><small>Email: firstname.lastname(at)oulu.fi</small></li>
-          	<li></li>
-          	<li></li>
-          </ul>      
+          	<li><small>Email: firstname.lastname(at)jamk.fi / firstname.lastname(at)oulu.fi </small></li>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-6">
           <h3>Find me online</h3>
           <ul class="list-group social">
             <li class="list-group-item"><small><a href="https://www.linkedin.com/in/michaeloduor/" target="_blank" rel="noopener"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></small></li>
