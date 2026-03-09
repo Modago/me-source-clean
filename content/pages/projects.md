@@ -2,6 +2,19 @@ Title: Projects
 Slug: projects
 Order: 2
 
+## The Next Step to Scale
+***Advancing Digital Rehabilitation in East Africa and Southeast Asia***
+
+The Next Step to Scale project aimed to address the rising global need for rehabilitation by helping Finnish companies expand in Asia and East Africa. In the project, JAMK focused on promoting digital rehabilitation by identifying barriers, advocating for its adoption, and pushing for policy changes. This involved assessing the cost-effectiveness of digital rehabilitation, with the project implemented in Vietnam, Indonesia, Kenya, Rwanda, and Tanzania. 
+
+The initiative sought to bolster national readiness, policies, and create ecosystems for digital rehabilitation in East Africa and Southeast Asia. Collaboration with Physiotools Ltd. and CSE Entertainment Ltd. in the project yielded country-specific policy recommendations and evidence for the cost-effectiveness of digital rehabilitation. During the project, we connected with ministries, universities, and professional associations, reaching over a thousand people and establishing a foundation for future scaling.
+
+**Related article:**
+
+- Oduor, M., Lällä, K., Eriksen, M., Korniloff, K. & Murtonen, K-P. (2025). Bridging AI and Primary Care: AI-assisted Health System Integration Model for the Inclusion App. Jamk Arena Pro. https://urn.fi/urn:nbn:fi:jamk-issn-2984-0783-249
+- Kempers, J., Bigirimana, J. D. N., & Murtonen, K.-P. (2025). Policy Brief: Exploratory Cost-Effectiveness Analysis of Digital Rehabilitation Services. Use of the Inclusion App for Persons with Low Back Pain in Rwanda. Zenodo. https://doi.org/10.5281/ZENODO.15745494
+
+
 
 ## DIRECT
 ***Co-innovation of digital rehabilitation in the global marketplace: 2022 - 2024***
@@ -12,7 +25,7 @@ The Covid-19 pandemic showed the vulnerability of the present systems and the ne
 
 The project, a collaboration between <span class="caps">JAMK</span> University of Applied Sciences, <a href= "https://www.physiotools.com" target="_blank" rel="noopener">Physiotools Ltd.</a> and <a href= "https://www.cse.fitness" target="_blank" rel="noopener"><span class="caps">CSE</span> Entertainment Ltd was funded by Business Finland.</a> The overall aim was to create new business opportunities through evidence-based research on the use of digital-first rehabilitation in different service and cultural&nbsp;contexts.
 
-**Some related Publications:**
+**Some related publications:**
 
 - Oduor, M., Korniloff, K., Gasana, J., Tumusiime, D. K., & Aartolahti, E. (2023). Digital Rehabilitation Interventions in Sub-Saharan Africa: Protocol for a Scoping Review. JMIR Research Protocols, 12, e48952. https://doi.org/10.2196/48952
 
@@ -30,7 +43,7 @@ Urban planning and public services face a number of common challenges. New strat
 
 The project was supported by the <a href= "https://skr.fi/en/ajankohtaista/future-cities-boost-health-and-wellbeing" target="_blank" rel="noopener">Finnish Cultural Foundation</a> from the <a href= "https://www.podoco.fi/news/17-new-podoco-doctors-receive-funding/" target="_blank" rel="noopener">PoDoCo</a> foundation pool and is in collaboration with <a href="https://navico.fi/timo/" target="_blank" rel="noopener">Timo Perälä</a> from Navico&nbsp;Oy.
 
-**Related Publication:**
+**Related publication:**
 
 - Oduor, M., Perälä, T.: Interactive Urban Play to Encourage Active Mobility: Usability Study of a Web-Based Augmented Reality Application. Frontiers in Computer Science. 3, (2021).
 
@@ -39,7 +52,7 @@ The project was supported by the <a href= "https://skr.fi/en/ajankohtaista/futur
 
 The target of the project was to create a basis for future health and well-being services by monitoring human ill-being and supporting behaviour change from an early age. By utilising the latest technology, we can monitor users in their everyday life by collecting sensor data for social web applications in real-time. The social web applications can also give feedback instantly (or even proactively), at very specific moments when users have made good or bad decisions affecting their health and well-being.
 
-**Related Publication:**
+**Related publication:**
 
 - Kinnunen, M., Ervasti, M., Jutila, M., Pantsar, S., Sesay, A. M., Pääkkönen, S., … Alasaarela, E. (2016). Improving the Well-Being and Safety of Children with Sensors and Mobile Technology. Journal of Technology in Human Services, 34(4), 359–375. https://doi.org/10.1080/15228835.2016.1250028
 

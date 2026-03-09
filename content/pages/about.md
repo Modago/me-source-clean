@@ -42,7 +42,7 @@ I also enjoy participating in voluntary activities. Over the years, I have been 
 <hr>
 <div class="row">
         <div class="col-sm-6">
-          <h3>Contact</h3> 
+          <h3>University Contact</h3> 
           <ul style="list-style-type:none;">
           	<li> <small>Michael Oduor </small> </li>
           	<li><small>Institute of Rehabilitation, School of Health & Social Studies</small></li>
