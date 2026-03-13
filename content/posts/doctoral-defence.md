@@ -1,3 +1,4 @@
+---
 Title: Doctoral Defence
 Date: 2018-05-15 
 Category: Research
@@ -5,6 +6,7 @@ Tags: PhD, research, doctoral defence
 Slug: doctoral-defence
 Author: Michael 0
 Summary: PhD defences vary widely in style and focus, often probing methodology, terminology, and practical relevance. Key questions test understanding, research implications, and generalisability. Personal experience highlights the importance of preparation, adaptability, and clear communication.
+---
 
 During my doctoral studies, I attended a few PhD defences. Sometimes I made notes of the important points and questions raised whenever I attended any defence. Some opponents concentrate on the methodological approach and the rationale for the overall study, whereas others focus on the definition of terms and the practical implications of the research — or a bit of both.  
 

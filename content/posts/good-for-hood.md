@@ -7,7 +7,6 @@ Slug: good-for-hood
 Author: Michael 0
 Summary: Lähirähinä organizes local and inclusive sports events to boost physical well-being, cut down on travel, and strengthen community bonds. Using existing facilities and incorporating technology when appropriate, it promotes sustainable living and social connection throughout the neighborhoods of Oulu.
 Series: Urban Lifestyle Engineering 
- 
 ---
 
 

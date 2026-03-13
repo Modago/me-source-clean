@@ -8,6 +8,7 @@ Author: Michael 0
 Summary: International research equity requires stronger African-led collaboration and capacity building, as local experts best understand contextual health needs. Partnerships between global north and south enable relevant, sustainable innovations, strengthen knowledge exchange, and improve digital rehabilitation solutions and health outcomes in low‑resource settings.
 Series: Direct Project
 ---
+
 Multicultural and International research collaboration is crucial for advancing knowledge, promoting scientific progress and addressing global challenges.
 
 ![Research interview with a service user in Rwanda](https://www.jamk.fi/sites/default/files/2023-06/Blog%20text%20image%203.jpg)

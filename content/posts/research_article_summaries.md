@@ -5,7 +5,7 @@ Category: Rehabilitation, low-resource setting
 Tags: digital rehabilition, artificial intelligence, research, barriers, availability, accessibility
 Slug: research_article_summaries
 Author: Michael 0
-Summary: A summary of articles from the DIRECT and NextStep to Sale Projects.
+Summary: A summary of articles from the DIRECT and NextStep to Scale [Projects](https://mattersearthly.co/projects.html) available at <a href = "https://arena.jamk.fi/en/" target="_blank" rel="noopener">Jamk Arena</a>, Jamk's publishing platform for popular and professionals articles.  
 Series: Direct Project
 ---
 

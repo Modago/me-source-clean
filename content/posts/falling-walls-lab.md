@@ -1,3 +1,4 @@
+---
 Title: Falling Walls Lab
 Date: 2018-08-16 
 Category: Pitching
@@ -5,7 +6,7 @@ Tags: pitching, ideas, research, Turku
 Slug: falling-walls-lab
 Author: Michael 0
 Summary: Personal experience pitching an idea to create community-run digital libraries in rural areas at Falling Walls Lab.
-
+---
 
 Two years ago, I registered for a pitching event in the week before mid-summer of 2016 in Turku. I arrived in Turku early in the morning, so I had time to review my presentation in peace. The hour spent at the park by the Aurajoki River practicing before the event venue opened helped calm my nerves. It was a calm, bright and warm summer morning with few people outside. The mind could drift away while watching the river flow and listening to birds.
 

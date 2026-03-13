@@ -1,3 +1,4 @@
+---
 Title: The Challenges of Academic Writing
 Date: 2020-08-26 
 Tags: writing, academia
@@ -5,7 +6,7 @@ Category: Writing
 Slug: academic-writing
 Author: Michael 0
 Summary: Academic writing often suffers from poor time allocation, disorganized structure, and the tendency to edit while writing. Prioritizing research, separating writing from editing, and focusing on completion over perfection can significantly improve productivity and outcomes.
-
+---
 
 <span class="bigger"> Spend 40% of the time researching, 20% actually writing and 40% editing and rewriting. </span>
 
