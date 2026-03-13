@@ -9,10 +9,10 @@ The Next Step to Scale project aimed to address the rising global need for rehab
 
 The initiative sought to bolster national readiness, policies, and create ecosystems for digital rehabilitation in East Africa and Southeast Asia. Collaboration with Physiotools Ltd. and CSE Entertainment Ltd. in the project yielded country-specific policy recommendations and evidence for the cost-effectiveness of digital rehabilitation. During the project, we connected with ministries, universities, and professional associations, reaching over a thousand people and establishing a foundation for future scaling.
 
-**Related article:**
+**Related articles:**
 
-- Oduor, M., Lällä, K., Eriksen, M., Korniloff, K. & Murtonen, K-P. (2025). Bridging AI and Primary Care: AI-assisted Health System Integration Model for the Inclusion App. Jamk Arena Pro. https://urn.fi/urn:nbn:fi:jamk-issn-2984-0783-249
-- Kempers, J., Bigirimana, J. D. N., & Murtonen, K.-P. (2025). Policy Brief: Exploratory Cost-Effectiveness Analysis of Digital Rehabilitation Services. Use of the Inclusion App for Persons with Low Back Pain in Rwanda. Zenodo. https://doi.org/10.5281/ZENODO.15745494
+- Oduor, M., Lällä, K., Eriksen, M., Korniloff, K. & Murtonen, K-P. (2025). Bridging AI and Primary Care: AI-assisted Health System Integration Model for the Inclusion App. <a href="https://urn.fi/urn:nbn:fi:jamk-issn-2984-0783-249" target="_blank" rel="noopener noreferrer">Jamk Arena Pro.</a>
+- Kempers, J., Bigirimana, J. D. N., & Murtonen, K.-P. (2025). Policy Brief: Exploratory Cost-Effectiveness Analysis of Digital Rehabilitation Services. Use of the Inclusion App for Persons with Low Back Pain in Rwanda. <a href="https://doi.org/10.5281/ZENODO.15745494" target="_blank" rel="noopener noreferrer">Zenodo.</a>
 
 
 
@@ -23,11 +23,9 @@ Globally, it is estimated that approximately 2.5 billion people would benefit fr
 
 The Covid-19 pandemic showed the vulnerability of the present systems and the need for resilience and adaptability in changing environments. Joint action and research are needed to have feasible, appropriate, meaningful, and effective (digital) solutions that directly empower people to manage their own health, wellbeing, and rehabilitation needs in different contexts globally.
 
-The project, a collaboration between <span class="caps">JAMK</span> University of Applied Sciences, <a href= "https://www.physiotools.com" target="_blank" rel="noopener">Physiotools Ltd.</a> and <a href= "https://www.cse.fitness" target="_blank" rel="noopener"><span class="caps">CSE</span> Entertainment Ltd was funded by Business Finland.</a> The overall aim was to create new business opportunities through evidence-based research on the use of digital-first rehabilitation in different service and cultural&nbsp;contexts.
+The project, a collaboration between <span class="caps">JAMK</span> University of Applied Sciences, <a href="https://www.physiotools.com" target="_blank" rel="noopener noreferrer">Physiotools Ltd.</a> and <a href="https://www.cse.fitness" target="_blank" rel="noopener noreferrer"><span class="caps">CSE</span> Entertainment Ltd was funded by Business Finland.</a> The overall aim was to create new business opportunities through evidence-based research on the use of digital-first rehabilitation in different service and cultural&nbsp;contexts.
 
 **Some related publications:**
-
-- Oduor, M., Korniloff, K., Gasana, J., Tumusiime, D. K., & Aartolahti, E. (2023). Digital Rehabilitation Interventions in Sub-Saharan Africa: Protocol for a Scoping Review. JMIR Research Protocols, 12, e48952. https://doi.org/10.2196/48952
 
 - Lällä, K., Oduor, M., Aartolahti, E., Tumusiime, D., & Korniloff, K. (2025). The relationship between attitudes, emotions and the intention to use the digital rehabilitation solution: Insights from Rwandan rehabilitation professionals. Finnish Journal of eHealth and eWelfare, 17(1). https://doi.org/10.23996/fjhw.153484
 
@@ -35,17 +33,19 @@ The project, a collaboration between <span class="caps">JAMK</span> University o
 
 - Murtonen, K.-P., Korniloff, K., Aartolahti, E., & Oduor, M. (2025). CO-INNOVATION OF DIGITAL REHABILITATION IN THE GLOBAL MARKETPLACE. Zenodo. https://doi.org/10.5281/ZENODO.15745645
 
+- Oduor, M., Korniloff, K., Gasana, J., Tumusiime, D. K., & Aartolahti, E. (2023). Digital Rehabilitation Interventions in Sub-Saharan Africa: Protocol for a Scoping Review. JMIR Research Protocols, 12, e48952. https://doi.org/10.2196/48952
+
 
 ## Urban Lifestyle Engineering
 ***Healthier, happier and more sustainable cities: 2020-2021***
 
 Urban planning and public services face a number of common challenges. New strategies and models are needed for future urban environments to better respond to human needs, environmental conditions and market dynamics. The project takes a human-centred and multidisciplinary approach to urban planning that is aimed at improving the delivery of services and the wellbeing and health of its citizens. This is by proposing the engineering of urban environments to promote sustainable and healthier behaviours and encourage socially inclusive practices. The expected impacts of the project are increased civic engagement, improved health of citizens, decrease in social exclusion and effective use of resources.
 
-The project was supported by the <a href= "https://skr.fi/en/ajankohtaista/future-cities-boost-health-and-wellbeing" target="_blank" rel="noopener">Finnish Cultural Foundation</a> from the <a href= "https://www.podoco.fi/news/17-new-podoco-doctors-receive-funding/" target="_blank" rel="noopener">PoDoCo</a> foundation pool and is in collaboration with <a href="https://navico.fi/timo/" target="_blank" rel="noopener">Timo Perälä</a> from Navico&nbsp;Oy.
+The project was supported by the <a href= "https://skr.fi/en/ajankohtaista/future-cities-boost-health-and-wellbeing" target="_blank" rel="noopener">Finnish Cultural Foundation</a> from the <a href= "https://www.podoco.fi/news/17-new-podoco-doctors-receive-funding/" target="_blank" rel="noopener">PoDoCo</a> foundation pool and is in collaboration with <a href="https://navico.fi/timo/" target="_blank" rel="noopener noreferrer">Timo Perälä</a> from Navico&nbsp;Oy.
 
 **Related publication:**
 
-- Oduor, M., Perälä, T.: Interactive Urban Play to Encourage Active Mobility: Usability Study of a Web-Based Augmented Reality Application. Frontiers in Computer Science. 3, (2021).
+- Oduor M and Perälä T (2021) Interactive Urban Play to Encourage Active Mobility: Usability Study of a Web-Based Augmented Reality Application. Front. Comput. Sci. 3:706162. doi: 10.3389/fcomp.2021.706162
 
 ## SEWEB
 ***Sensors and social web: 2013-2014***
@@ -78,4 +78,4 @@ The other research theme in the Someletti project was user persuasion. Especiall
     </li>
 </ul>
 
-<p>More information about <strong><span class="caps">SEWEB</span></strong> and <strong>Someletti</strong> projects from <a href= "https://www.oulu.fi/oasis/node/58294" target="_blank" rel="noopener">here</a>.</li></p>
+<p>More information about <strong><span class="caps">SEWEB</span></strong> and <strong>Someletti</strong> projects from <a href= "https://www.oulu.fi/oasis/node/58294" target="_blank" rel="noopener noreferrer">here</a>.</li></p>

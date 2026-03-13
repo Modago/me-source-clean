@@ -10,7 +10,7 @@ Summary: Academic writing often suffers from poor time allocation, disorganized 
 
 <span class="bigger"> Spend 40% of the time researching, 20% actually writing and 40% editing and rewriting. </span>
 
-<p>Sometime back, I took part in a webinar about academic writing and the issues that lead to challenges when reporting or documenting research. The webinar was hosted by <a href= "https://www.publicationcoach.com" target="_blank" rel="noopener">Daphney Grant</a>. The points raised in the webinar are those I have often struggled with in my research and in projects, especially in the initial stages when there is a lack of clarity. A summary of the issues discussed in the&nbsp;webinar. </p>
+<p>Sometime back, I took part in a webinar about academic writing and the issues that lead to challenges when reporting or documenting research. The webinar was hosted by <a href= "https://www.publicationcoach.com" target="_blank" rel="noopener noreferrer">Daphney Grant</a>. The points raised in the webinar are those I have often struggled with in my research and in projects, especially in the initial stages when there is a lack of clarity. A summary of the issues discussed in the&nbsp;webinar. </p>
 <ol>
 <li>
 <p>Failure to budget time effectively. Tell me about&nbsp;it!</p>

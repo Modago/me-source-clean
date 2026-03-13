@@ -30,4 +30,4 @@ However, persuasive systems design is often driven by a rationalist perspective 
 
 Therefore, among the aims of my research has been to understand the role context plays in users’ decision making. And to translate this understanding into the design of persuasive systems and behaviour change programs that users stick to. As Jodi Forlizzi stated in her keynote address at the persuasive technology 2015 conference, “If we are in the behaviour change area, we need to have a deep understanding of the problem area—users and the contexts they own”.
 
-<p>This was also posted at <a href="https://www.oulu.fi/blogs/science-with-arctic-attitude/persuasive-systems" target="_blank" rel="noopener">Oulu University’s blog</a>.</p>
+<p>This was also posted at <a href="https://www.oulu.fi/blogs/science-with-arctic-attitude/persuasive-systems" target="_blank" rel="noopener noreferrer">Oulu University’s blog</a>.</p>
